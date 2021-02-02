@@ -1,0 +1,8 @@
+{
+  "name": "phpdemo",
+  "dependencies": {
+    "motion-ui": "^2.0.3",
+    "foundation-sites": "^6.6.3",
+    "slick-carousel": "^1.8.1"
+  }
+}

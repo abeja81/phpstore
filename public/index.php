@@ -1,1 +1,4 @@
-hi this is the store we build here!
+<?php
+
+require_once __DIR__ . '/../bootstrap/init.php';
+
